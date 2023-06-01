@@ -1,0 +1,8 @@
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\bin\Debug\ExamMenshakova.exe.config
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\bin\Debug\ExamMenshakova.exe
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\bin\Debug\ExamMenshakova.pdb
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\obj\Debug\ExamMenshakova.csproj.AssemblyReference.cache
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\obj\Debug\ExamMenshakova.csproj.SuggestedBindingRedirects.cache
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\obj\Debug\ExamMenshakova.csproj.CoreCompileInputs.cache
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\obj\Debug\ExamMenshakova.exe
+C:\Users\mensh\source\repos\ExamMenshakova\ExamMenshakova\obj\Debug\ExamMenshakova.pdb
